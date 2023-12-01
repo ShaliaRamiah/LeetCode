@@ -64,3 +64,4 @@ function getLength(str) {
 
 let input = "abcabcbb";
 let result = lengthOfLongestSubstring(input);
+console.log(result);
